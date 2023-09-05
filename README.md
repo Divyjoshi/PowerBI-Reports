@@ -19,7 +19,7 @@ This Power BI dashboard provides an analysis of socio-economic indicators in cou
 <a id="dash"></a>
 ## Dashboard Tour
 [Open Power BI Report](https://app.powerbi.com/view?r=eyJrIjoiYWMwNmI1ZmMtZGYwYS00ODljLWE4NzgtNzM1OGRkYWQzMWMxIiwidCI6IjZiZTgxZjIwLWFlY2MtNGQyZC1hMTM0LWJmZWJlOTAxODE4NCIsImMiOjl9)
-
+[!Image](https://github.com/Divyjoshi/PowerBI-Reports/blob/f71c2f9b1b8ec3000581a7875b85f7827ff6ec58/Inflation.png)
 
 <a id="key-features"></a>
 
