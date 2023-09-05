@@ -6,7 +6,6 @@
 - [Dashboard Tour](#dash)
 - [Key Features](#key-features)
 - [Data Source](#data-source)
-- [Author](#author)
 - [Results](#results)
 - [Usage](#usage)
 - [Contributing](#contributing)
@@ -36,12 +35,6 @@ This Power BI dashboard provides an analysis of socio-economic indicators in cou
 ## Data Source
 
 The dataset used in this dashboard is based on real-world data and was created as part of an educational curriculum.
-
-<a id="author"></a>
-
-## Author
-
-This dashboard was created by Anna Kulik, a student of the St. Petersburg State Technological University, Faculty of Economics and Management, specializing in "Business Informatics."
 
 <a id="results"></a>
 
