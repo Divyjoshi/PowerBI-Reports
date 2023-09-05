@@ -15,7 +15,7 @@
 
 This Power BI dashboard provides an analysis of socio-economic indicators in countries worldwide. The dataset includes comprehensive information on various socio-economic aspects of different nations. The purpose of this dashboard is to present key information in a user-friendly manner for analysis and insights.
 
-![Dashboard Video](https://app.powerbi.com/reportEmbed?reportId=df4487fd-f032-481b-b632-d67e453a2859&autoAuth=true&ctid=5048d255-cc51-46a2-b7c0-5b1e47bf62c0)
+[![Video](https://drive.google.com/file/d/1D1R1B-msKX1EPbYWVEoTAlVwHicQ36aq/view?usp=sharing)
 
 <a id="key-features"></a>
 
